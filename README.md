@@ -2,7 +2,7 @@
 
 Este trabalho é uma adaptação de: `https://github.com/dubcl/xva2img`
 
-Ambiente de homologação: Ubuntu 20.04. Durante a utilização recomenda-se no minimo 100 GB de disco devido ao tamanho do arquivo .img.
+Ambiente de homologação: Ubuntu 20.04. Para a conversão recomenda-se no minimo 100 GB de disco devido ao tamanho do arquivo .img. Também recomenda-se que nenhuma outra atividade seja realizada no computador até o fim do processo.
 
 
 ### Orientações de uso
