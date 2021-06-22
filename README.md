@@ -29,5 +29,10 @@ outputImg=outputImg.img -> Define o nome da imagem a ser gerada apartir da vm .x
 outputDisc=outputDisc.vdi -> Define o nome do disco vdi a ser gerado apartir da imagem .img
 ```
 
+5. Rodar o script:
+
+```
+./xva2vdi.sh
+```
 
 
