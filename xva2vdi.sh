@@ -10,6 +10,7 @@ inputVM=inputVM.xva
 outputImg=outputImg.img
 outputDisc=outputDisc.vdi
 
+clear
 echo
 echo "A VM a ser convertida é: $inputVM"
 
