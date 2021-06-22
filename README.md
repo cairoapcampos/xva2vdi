@@ -19,7 +19,13 @@ mv vm.xva xva2vdi/
 ```
 cd xva2vdi/
 ```
-4. Editar o arquivo xva2vdi.sh:
+4. Dar permissão de execução nos scripts:
+
+```
+chmod +x xva2img.sh xva2vdi.sh
+```
+
+5. Editar o arquivo xva2vdi.sh:
 
 ```
 nano xva2vdi.sh
@@ -31,7 +37,7 @@ outputImg=outputImg.img -> Define o nome da imagem a ser gerada apartir da vm .x
 outputDisc=outputDisc.vdi -> Define o nome do disco vdi a ser gerado apartir da imagem .img
 ```
 
-5. Rodar o script:
+6. Rodar o script:
 
 ```
 ./xva2vdi.sh
