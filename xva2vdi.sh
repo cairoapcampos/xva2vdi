@@ -1,5 +1,11 @@
 #!/bin/bash
 
+######################################################
+# Script de Conversão de XVA para VDI (xva2vdi)      #
+# Versão: 1.0 - 22/06/21                             #
+# Autor: Cairo Ap. Campos                            #
+######################################################
+
 inputVM=inputVM.xva
 outputImg=outputImg.img
 outputDisc=outputDisc.vdi
