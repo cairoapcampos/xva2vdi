@@ -1,5 +1,7 @@
 # xva2vdi
 
+Este trabalho é uma adaptação de: `https://github.com/dubcl/xva2img`
+
 ### Orientações de uso
 
 1. Baixar repositório: 
